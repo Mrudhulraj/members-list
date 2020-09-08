@@ -997,3 +997,10 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [SuvigyaJain1](https://github.com/SuvigyaJain1)   <br/>
 **About Me**: Looking to learn more about and contribute a lot to open source. Tell me if you have any interesting projects in python you need contributors for  <br/>
 
+**Name**: Mrudhulraj Natarajan    
+**SRN**: PES1UG19CS281  
+**Link to Profile**: [Mrudhulraj](https://github.com/Mrudhulraj)   <br/>
+**About Me**: Just  a person who admires NLP and Image processing. Tbh want to contribute a lot to Open Source and active user in  Medium(https://medium.com/@mrudhulraj.n)
+              Btw huge bball fan and interested a little in photography. 
+
+
